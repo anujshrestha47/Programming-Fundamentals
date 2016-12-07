@@ -1,9 +1,9 @@
 /*
-Student Name: kamal
-Roll:11
+Student Name: anuj shrestha
+Roll:05
 Lab no. :04
-Program: To print evev or odd useing if esle
-Date: 18 octber, 2016
+Program: To print even or odd using if esle
+Date:5th dec
 */
 #include<stdio.h>
 int main()
